@@ -27,7 +27,7 @@ Git · GitHub  · Figma · REST APIs . Docker
 -Unit Testing with Vitest
 
 ---
-## Projects Coming Soon
+## Projects 
 
 - Library Management System (Microservices)
 - E-commerce 
