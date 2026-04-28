@@ -8,16 +8,16 @@ clean and responsive web experiences.
 ## Tech Stack
 
 **Languages**
-JavaScript (ES6+) · TypeScript · HTML5 · CSS3
+JavaScript (ES6+) · TypeScript · Java · HTML5 · CSS3 
 
 **Frameworks & Libraries**
- Angular · React
+ Angular · React . Spring-boot
 
 **Styling**
 SCSS · Bootstrap · Angular Material
 
 **Tools**
-Git · GitHub  · Figma · REST APIs
+Git · GitHub  · Figma · REST APIs . Docker
 
 ---
 
@@ -29,8 +29,8 @@ Git · GitHub  · Figma · REST APIs
 ---
 ## Projects Coming Soon
 
-I'm currently working on some projects that will be
-uploaded here soon. Stay tuned!
+- Library Management System (Microservices)
+- E-commerce 
 
 ---
 ##How to Reach Me
