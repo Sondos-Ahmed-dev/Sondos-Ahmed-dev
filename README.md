@@ -1,6 +1,6 @@
 ##  Hi, I'm Sondos
 
-I'm a **Frontend Developer** passionate about building
+I'm a **Full-Stack Developer** passionate about building
 clean and responsive web experiences.
 
 ---
